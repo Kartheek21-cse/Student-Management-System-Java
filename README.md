@@ -1,4 +1,4 @@
-Student Management System (Java + JDBC + PostgreSQL)
+#Student Management System (Java + JDBC + PostgreSQL)
 
 A console-based Java application to perform CRUD operations on student records stored in a PostgreSQL database using JDBC.
 
